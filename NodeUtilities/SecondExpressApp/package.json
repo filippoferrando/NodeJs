@@ -1,0 +1,14 @@
+{
+  "name": "secondexpressapp",
+  "version": "1.0.0",
+  "description": "second express app udemy exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filippo Ferrando",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

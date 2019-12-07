@@ -1,0 +1,14 @@
+{
+  "name": "databasemongoose",
+  "version": "1.0.0",
+  "description": "mongoose, mongodb tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filippo Ferrando",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.6.9"
+  }
+}
